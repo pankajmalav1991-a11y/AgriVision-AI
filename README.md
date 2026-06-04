@@ -2,6 +2,10 @@
 
 Plant Disease Classification using Vision Transformers (ViT)
 
+## Live Demo
+
+https://pankaj-malav-agrivision-ai.hf.space
+
 ## 📌 Project Overview
 
 AgriVision AI is a deep learning project that identifies diseases in potato and tomato leaves using a Vision Transformer (ViT) model.

@@ -19,7 +19,7 @@ device = torch.device(
 # --------------------------------------------------
 
 checkpoint = torch.load(
-    "model/agrivision_vit_model.pth",
+    "agrivision_vit_model.pth",
     map_location=device
 )
 
